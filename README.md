@@ -1,4 +1,4 @@
-# trialjectory-homework
+# currency exchange widget
 
 To run:
 
